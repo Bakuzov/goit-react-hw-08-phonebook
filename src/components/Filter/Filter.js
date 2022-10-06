@@ -22,16 +22,3 @@ export const Filter = () => {
     </label>
   );
 };
-
-//   return (
-//     <label>
-//       <PFilter>Find contacts by name</PFilter>
-//       <Input
-//         type="text"
-//         name="name"
-//         value={filter}
-//         onChange={formSubmitFilter}
-//       />
-//     </label>
-//   );
-// };
